@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="141aa436ec711c43de370a7f156fc19fbe53a469">
+        <dex dex="D:\WORKSPACE\Project\native-react\ClosetApp\android\app\build\intermediates\pre-dexed\release\classes_f02521ac57868672c32ca4d9dfe5aebdc7451d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-fs\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17941b2819894e7dd26200eb97293d4022e138ba">
+        <dex dex="D:\WORKSPACE\Project\native-react\ClosetApp\android\app\build\intermediates\pre-dexed\release\classes_15abad04448602fca535bd8137a6ba0c59a57c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c95b5708dcd61fa96b07f6261c18198bd1065d63">
+        <dex dex="D:\WORKSPACE\Project\native-react\ClosetApp\android\app\build\intermediates\pre-dexed\release\classes_7f47a214d149d6e1d8fa3a2ff14dffc874d49cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\realm\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68266340a715969d66a4116c07f39fdca28ac950">
+        <dex dex="D:\WORKSPACE\Project\native-react\ClosetApp\android\app\build\intermediates\pre-dexed\release\classes_e3d45cd1d4234d52f3e979a0bd4f616574a8f8ed.jar" />
+    </item>
+
+</items>

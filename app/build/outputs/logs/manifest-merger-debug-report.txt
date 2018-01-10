@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from [:react-native-navigation] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\33d68153e1b778751b645a388390d2de\AndroidManifest.xml:2:1-14:12
+MERGED from [:realm] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\realm\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-camera] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-fs] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-fs\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\05a9587e7623ebf21e01626c2ad669d1\AndroidManifest.xml:2:1-15:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\a9ec78ef252297fbca49ba7d145279c8\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\53da64acffb4cb29fbea74a0583518ee\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c925edb64a614ef57403b7014dea2b17\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\3e061664d512907a32ebf545fab73b08\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\65e75d79bbd17f58cc788bd522f92eeb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\d0fbbbb316126cdac541f95a5c089758\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\63f6daeca0568b799611910e7d49c935\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\38452095b2b86b8112d995bc7a15d3b2\AndroidManifest.xml:1:1-3:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\2bb9629437f2c42f74f6e9d43e7ad54f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4652319790b1975ada87e51173d8a1a9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\91b732e7a3193b629ea7ca537ef5a1b2\AndroidManifest.xml:17:1-26:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\96e6cd0b4a4d9b610d78e5a9e1d0238b\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1cd0bc3d390db4f3779a66058caa3b94\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6738460af3cce0b28171224f8c4bf4a1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\498bc6d254d0aba1e93a3d6c641e08c7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8f11ee2b108704458f9a7b6085e2a746\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e9bd85e48fc2d15cae06ec8210a5a02f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef9ecf9e058ad35bbbfa8ce9b19520e0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\94d440eb14822591b21c5b538f5dab7f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\08e63af4fabac14daa6c8064cc7f1867\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\1644c5965209fd73f1fa82ca94f10ca2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\e6ca1023db3f922704738b3c95f4c602\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\1f6a1e56d4cdd25531530c1df3ddaeb0\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:2:11-34
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:4:11-36
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:70-116
+	xmlns:android
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:3:11-34
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\05a9587e7623ebf21e01626c2ad669d1\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\05a9587e7623ebf21e01626c2ad669d1\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:7:22-75
+uses-permission#android.permission.CAMERA
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:8:5-65
+MERGED from [:react-native-camera] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [:react-native-fs] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-fs\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
+MERGED from [:react-native-fs] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-fs\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:9:22-78
+uses-sdk
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:11:5-13:41
+INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:11:5-13:41
+INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-navigation] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\33d68153e1b778751b645a388390d2de\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\33d68153e1b778751b645a388390d2de\AndroidManifest.xml:8:5-10:41
+MERGED from [:realm] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\realm\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:realm] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\realm\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-fs\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-fs\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\05a9587e7623ebf21e01626c2ad669d1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\05a9587e7623ebf21e01626c2ad669d1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\a9ec78ef252297fbca49ba7d145279c8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\a9ec78ef252297fbca49ba7d145279c8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\53da64acffb4cb29fbea74a0583518ee\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\53da64acffb4cb29fbea74a0583518ee\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c925edb64a614ef57403b7014dea2b17\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c925edb64a614ef57403b7014dea2b17\AndroidManifest.xml:21:5-23:78
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\3e061664d512907a32ebf545fab73b08\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\3e061664d512907a32ebf545fab73b08\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\65e75d79bbd17f58cc788bd522f92eeb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\65e75d79bbd17f58cc788bd522f92eeb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\d0fbbbb316126cdac541f95a5c089758\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\d0fbbbb316126cdac541f95a5c089758\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\63f6daeca0568b799611910e7d49c935\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\63f6daeca0568b799611910e7d49c935\AndroidManifest.xml:2:3-70
+MERGED from [com.android.support:transition:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\2bb9629437f2c42f74f6e9d43e7ad54f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\2bb9629437f2c42f74f6e9d43e7ad54f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4652319790b1975ada87e51173d8a1a9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4652319790b1975ada87e51173d8a1a9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\91b732e7a3193b629ea7ca537ef5a1b2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\91b732e7a3193b629ea7ca537ef5a1b2\AndroidManifest.xml:20:5-43
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\96e6cd0b4a4d9b610d78e5a9e1d0238b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\96e6cd0b4a4d9b610d78e5a9e1d0238b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1cd0bc3d390db4f3779a66058caa3b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1cd0bc3d390db4f3779a66058caa3b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6738460af3cce0b28171224f8c4bf4a1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6738460af3cce0b28171224f8c4bf4a1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\498bc6d254d0aba1e93a3d6c641e08c7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\498bc6d254d0aba1e93a3d6c641e08c7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8f11ee2b108704458f9a7b6085e2a746\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8f11ee2b108704458f9a7b6085e2a746\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e9bd85e48fc2d15cae06ec8210a5a02f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e9bd85e48fc2d15cae06ec8210a5a02f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef9ecf9e058ad35bbbfa8ce9b19520e0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef9ecf9e058ad35bbbfa8ce9b19520e0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\94d440eb14822591b21c5b538f5dab7f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\94d440eb14822591b21c5b538f5dab7f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\08e63af4fabac14daa6c8064cc7f1867\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\08e63af4fabac14daa6c8064cc7f1867\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\1644c5965209fd73f1fa82ca94f10ca2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\1644c5965209fd73f1fa82ca94f10ca2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\e6ca1023db3f922704738b3c95f4c602\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\e6ca1023db3f922704738b3c95f4c602\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\1f6a1e56d4cdd25531530c1df3ddaeb0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\1f6a1e56d4cdd25531530c1df3ddaeb0\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:11:5-13:41
+INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:11:5-13:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\53da64acffb4cb29fbea74a0583518ee\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:13:9-38
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:12:9-35
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:15:5-33:19
+MERGED from [:react-native-navigation] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\33d68153e1b778751b645a388390d2de\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\33d68153e1b778751b645a388390d2de\AndroidManifest.xml:12:5-20
+MERGED from [:realm] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\realm\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-20
+MERGED from [:realm] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\realm\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\05a9587e7623ebf21e01626c2ad669d1\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\05a9587e7623ebf21e01626c2ad669d1\AndroidManifest.xml:13:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\a9ec78ef252297fbca49ba7d145279c8\AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\a9ec78ef252297fbca49ba7d145279c8\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\53da64acffb4cb29fbea74a0583518ee\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\53da64acffb4cb29fbea74a0583518ee\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c925edb64a614ef57403b7014dea2b17\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c925edb64a614ef57403b7014dea2b17\AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\63f6daeca0568b799611910e7d49c935\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\63f6daeca0568b799611910e7d49c935\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\38452095b2b86b8112d995bc7a15d3b2\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\38452095b2b86b8112d995bc7a15d3b2\AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:transition:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\2bb9629437f2c42f74f6e9d43e7ad54f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\2bb9629437f2c42f74f6e9d43e7ad54f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4652319790b1975ada87e51173d8a1a9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4652319790b1975ada87e51173d8a1a9\AndroidManifest.xml:29:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\96e6cd0b4a4d9b610d78e5a9e1d0238b\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\96e6cd0b4a4d9b610d78e5a9e1d0238b\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1cd0bc3d390db4f3779a66058caa3b94\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1cd0bc3d390db4f3779a66058caa3b94\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6738460af3cce0b28171224f8c4bf4a1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6738460af3cce0b28171224f8c4bf4a1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\498bc6d254d0aba1e93a3d6c641e08c7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\498bc6d254d0aba1e93a3d6c641e08c7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8f11ee2b108704458f9a7b6085e2a746\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8f11ee2b108704458f9a7b6085e2a746\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e9bd85e48fc2d15cae06ec8210a5a02f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e9bd85e48fc2d15cae06ec8210a5a02f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef9ecf9e058ad35bbbfa8ce9b19520e0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef9ecf9e058ad35bbbfa8ce9b19520e0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\94d440eb14822591b21c5b538f5dab7f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\94d440eb14822591b21c5b538f5dab7f\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:18:7-39
+	android:icon
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:19:7-34
+	android:allowBackup
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:17:7-33
+	android:theme
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:20:7-38
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:16:7-38
+activity#com.closetapp.MainActivity
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:22:7-31:18
+	android:label
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:24:9-41
+	android:windowSoftInputMode
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:26:9-51
+	android:configChanges
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:25:9-79
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:23:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:27:9-30:25
+action#android.intent.action.MAIN
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:28:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:29:13-73
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:29:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:32:7-84
+MERGED from [:react-native-navigation] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:32:17-81
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [:react-native-navigation] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [:react-native-navigation] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [:react-native-navigation] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-84
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:react-native-camera] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:react-native-camera] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [:react-native-camera] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:react-native-camera] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:9-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\53da64acffb4cb29fbea74a0583518ee\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c925edb64a614ef57403b7014dea2b17\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c925edb64a614ef57403b7014dea2b17\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\2bb9629437f2c42f74f6e9d43e7ad54f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\2bb9629437f2c42f74f6e9d43e7ad54f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4652319790b1975ada87e51173d8a1a9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4652319790b1975ada87e51173d8a1a9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\91b732e7a3193b629ea7ca537ef5a1b2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\91b732e7a3193b629ea7ca537ef5a1b2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1cd0bc3d390db4f3779a66058caa3b94\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1cd0bc3d390db4f3779a66058caa3b94\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6738460af3cce0b28171224f8c4bf4a1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6738460af3cce0b28171224f8c4bf4a1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\498bc6d254d0aba1e93a3d6c641e08c7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\498bc6d254d0aba1e93a3d6c641e08c7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8f11ee2b108704458f9a7b6085e2a746\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8f11ee2b108704458f9a7b6085e2a746\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e9bd85e48fc2d15cae06ec8210a5a02f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e9bd85e48fc2d15cae06ec8210a5a02f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef9ecf9e058ad35bbbfa8ce9b19520e0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\ef9ecf9e058ad35bbbfa8ce9b19520e0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\94d440eb14822591b21c5b538f5dab7f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\94d440eb14822591b21c5b538f5dab7f\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\53da64acffb4cb29fbea74a0583518ee\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\W540\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\53da64acffb4cb29fbea74a0583518ee\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

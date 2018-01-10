@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\icon.png",
+        "source": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    }
+]

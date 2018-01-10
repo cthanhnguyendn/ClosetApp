@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\4b7b68b3dd58ad3c5016cacc92609026296ff061\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\lightbox_enter.xml",
+        "source": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\lightbox_enter.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\48c29e6f07003aae8b7c27b8f158b6f9e4f5bb8e\\output\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\4b7b68b3dd58ad3c5016cacc92609026296ff061\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_right.xml",
+        "source": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\no_animation.xml",
+        "source": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\no_animation.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\4b7b68b3dd58ad3c5016cacc92609026296ff061\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\4b7b68b3dd58ad3c5016cacc92609026296ff061\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\48c29e6f07003aae8b7c27b8f158b6f9e4f5bb8e\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\4b7b68b3dd58ad3c5016cacc92609026296ff061\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\4b7b68b3dd58ad3c5016cacc92609026296ff061\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\4b7b68b3dd58ad3c5016cacc92609026296ff061\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_up.xml",
+        "source": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_right.xml",
+        "source": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\48c29e6f07003aae8b7c27b8f158b6f9e4f5bb8e\\output\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\4b7b68b3dd58ad3c5016cacc92609026296ff061\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_down.xml",
+        "source": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\4b7b68b3dd58ad3c5016cacc92609026296ff061\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\4b7b68b3dd58ad3c5016cacc92609026296ff061\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\pop.xml",
+        "source": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\pop.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\48c29e6f07003aae8b7c27b8f158b6f9e4f5bb8e\\output\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\48c29e6f07003aae8b7c27b8f158b6f9e4f5bb8e\\output\\res\\anim\\catalyst_slide_up.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\Project\\native-react\\ClosetApp\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\W540\\.android\\build-cache\\48c29e6f07003aae8b7c27b8f158b6f9e4f5bb8e\\output\\res\\anim\\catalyst_slide_down.xml"
+    }
+]

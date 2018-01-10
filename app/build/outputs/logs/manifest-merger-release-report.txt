@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:2:11-34
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:4:11-36
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:70-116
+	android:versionCode
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:3:11-34
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\W540\.android\build-cache\48c29e6f07003aae8b7c27b8f158b6f9e4f5bb8e\output\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:7:22-75
+uses-permission#android.permission.CAMERA
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:8:5-65
+MERGED from [ClosetApp:react-native-camera:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [ClosetApp:react-native-fs:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-fs\android\build\intermediates\bundles\default\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:9:22-78
+uses-sdk
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:11:5-13:41
+MERGED from [ClosetApp:realm:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\realm\android\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [ClosetApp:react-native-navigation:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\W540\.android\build-cache\3ef50d61127f354460d33caa19b48447552cb59e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\W540\.android\build-cache\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\W540\.android\build-cache\28bb74fa470bfb8cf632c95f4bfe08e109617351\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\W540\.android\build-cache\c8b03ebae0bd0ea06a8f3e9166713119d097d3d7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\W540\.android\build-cache\dec1dbf6fd00cc19a2f9c48402be625083b8c046\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\W540\.android\build-cache\51093aa06d6c994499ddca79f7e9021418a134b3\output\AndroidManifest.xml:8:5-10:41
+MERGED from [ClosetApp:react-native-camera:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [ClosetApp:react-native-fs:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-fs\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\W540\.android\build-cache\48c29e6f07003aae8b7c27b8f158b6f9e4f5bb8e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W540\.android\build-cache\4b7b68b3dd58ad3c5016cacc92609026296ff061\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W540\.android\build-cache\dc36c3b9afc772c7365bddc8d17a070516376c39\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W540\.android\build-cache\ff8430ea46f0fc448bca45f275734f3751155791\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W540\.android\build-cache\c8a363be8bac7a685212c78ca7a4217f8fd554df\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W540\.android\build-cache\41172b54b7f3fc6c9a27cfdc74695fae2987bcf6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W540\.android\build-cache\5c535a2e0be42b343808bcc37dfc92cbc96de641\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W540\.android\build-cache\50ada9815ed018a485d9ff589da1391bfbadb678\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W540\.android\build-cache\8cd0eacf867c177bf50472d9f6349ab7d9eb5bdb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W540\.android\build-cache\235ef3836fd613059316123728969ef011258cca\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\W540\.android\build-cache\3c88d99b4355fa181e3bda8dd03492752f611c04\output\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\W540\.android\build-cache\5a51ac0317d19673ce3b415b882d8736bfae71e7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\W540\.android\build-cache\b1b9b79812e303399b4f0ebc85faa4b5a85754ee\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\W540\.android\build-cache\3b916dda1f1151d79ef7d447d5839cc450349f61\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\W540\.android\build-cache\6443501375df83736c1ab8b4cfe9faf525632811\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\W540\.android\build-cache\5823c4048ea7cd3331447f5f3572201b59157e66\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\W540\.android\build-cache\ee9e3b9c5b32ff5f1d7e412aa2cb503179d9ea00\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\W540\.android\build-cache\5daca1580c74bc449181e8468eabee50e4f982d7\output\AndroidManifest.xml:2:3-70
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\W540\.android\build-cache\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:13:9-38
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:12:9-35
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:15:5-33:19
+MERGED from [ClosetApp:realm:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\realm\android\build\intermediates\bundles\default\AndroidManifest.xml:9:5-20
+MERGED from [ClosetApp:react-native-navigation:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:11:5-18:19
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\W540\.android\build-cache\3ef50d61127f354460d33caa19b48447552cb59e\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\W540\.android\build-cache\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\W540\.android\build-cache\c8b03ebae0bd0ea06a8f3e9166713119d097d3d7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\W540\.android\build-cache\dec1dbf6fd00cc19a2f9c48402be625083b8c046\output\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\W540\.android\build-cache\51093aa06d6c994499ddca79f7e9021418a134b3\output\AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\W540\.android\build-cache\48c29e6f07003aae8b7c27b8f158b6f9e4f5bb8e\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W540\.android\build-cache\4b7b68b3dd58ad3c5016cacc92609026296ff061\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W540\.android\build-cache\dc36c3b9afc772c7365bddc8d17a070516376c39\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W540\.android\build-cache\ff8430ea46f0fc448bca45f275734f3751155791\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W540\.android\build-cache\c8a363be8bac7a685212c78ca7a4217f8fd554df\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W540\.android\build-cache\41172b54b7f3fc6c9a27cfdc74695fae2987bcf6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W540\.android\build-cache\5c535a2e0be42b343808bcc37dfc92cbc96de641\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W540\.android\build-cache\50ada9815ed018a485d9ff589da1391bfbadb678\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W540\.android\build-cache\8cd0eacf867c177bf50472d9f6349ab7d9eb5bdb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W540\.android\build-cache\235ef3836fd613059316123728969ef011258cca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\W540\.android\build-cache\5daca1580c74bc449181e8468eabee50e4f982d7\output\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\W540\.android\build-cache\1ef289a8b28c966d350ddcbe8e6e8100c3fe41e6\output\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:18:7-39
+	android:allowBackup
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:17:7-33
+	android:icon
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:19:7-34
+	android:theme
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:20:7-38
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:16:7-38
+activity#com.closetapp.MainActivity
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:22:7-31:18
+	android:label
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:24:9-41
+	android:windowSoftInputMode
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:26:9-51
+	android:configChanges
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:25:9-79
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:23:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:27:9-30:25
+action#android.intent.action.MAIN
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:28:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:29:13-73
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:29:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:32:7-84
+MERGED from [ClosetApp:react-native-navigation:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [ClosetApp:react-native-navigation:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:32:17-81
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [ClosetApp:react-native-navigation:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [ClosetApp:react-native-navigation:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [ClosetApp:react-native-navigation:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:13:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\W540\.android\build-cache\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\W540\.android\build-cache\28bb74fa470bfb8cf632c95f4bfe08e109617351\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\W540\.android\build-cache\c8b03ebae0bd0ea06a8f3e9166713119d097d3d7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W540\.android\build-cache\4b7b68b3dd58ad3c5016cacc92609026296ff061\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W540\.android\build-cache\dc36c3b9afc772c7365bddc8d17a070516376c39\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W540\.android\build-cache\ff8430ea46f0fc448bca45f275734f3751155791\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W540\.android\build-cache\c8a363be8bac7a685212c78ca7a4217f8fd554df\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W540\.android\build-cache\41172b54b7f3fc6c9a27cfdc74695fae2987bcf6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W540\.android\build-cache\5c535a2e0be42b343808bcc37dfc92cbc96de641\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W540\.android\build-cache\50ada9815ed018a485d9ff589da1391bfbadb678\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W540\.android\build-cache\8cd0eacf867c177bf50472d9f6349ab7d9eb5bdb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W540\.android\build-cache\235ef3836fd613059316123728969ef011258cca\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\W540\.android\build-cache\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\W540\.android\build-cache\7f25b19a7bf6232496433bd96e3dbc9eac79ade4\output\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera
+ADDED from [ClosetApp:react-native-camera:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [ClosetApp:react-native-camera:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [ClosetApp:react-native-camera:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [ClosetApp:react-native-camera:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [ClosetApp:react-native-camera:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [ClosetApp:react-native-camera:unspecified] D:\WORKSPACE\Project\native-react\ClosetApp\node_modules\react-native-camera\android\build\intermediates\bundles\default\AndroidManifest.xml:17:9-57
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\WORKSPACE\Project\native-react\ClosetApp\android\app\src\main\AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
